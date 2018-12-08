@@ -1,4 +1,4 @@
-Adsonance-Business-Directory
+Adsonance Business Directory
 ============================
 Adsonance Business Directory ia a simple directory web application which I built to list local businesses in my area. Interesting thing about this web application is that there is a DIY website builder in this application so that you can associate every listing with a simple website. If you want then you can even link a domain name to this website so that every small business will have it's own website.
 
