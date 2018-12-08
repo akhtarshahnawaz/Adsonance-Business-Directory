@@ -11,7 +11,7 @@ Requirements
 Installation
 ============
 
-1. Go to "OctantCRM/application/config/database.php"
+1. Go to "Adsonance-Business-Directory/application/config/database.php"
 2. Edit Lines
 
         $db['default']['username'] = '<YOUR DATABASE USERNAME>';
