@@ -20,14 +20,14 @@ Installation
 
 
 3. Go to link  "<installation folder>/index.php/install"
-4. Fill in Username and Password for managing CRM
+4. Fill in Username and Password for managing application
 
 
 
 Email Setup
 ============
 
-1. Go to "OctantCRM/application/config/email.php"
+1. Go to "Adsonance-Business-Directory/application/config/email.php"
 2. Edit Lines
 
 		$config['smtp_host'] = '<SMTP HOST>';
