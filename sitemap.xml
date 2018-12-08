@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>http://localhost/MyDirectory/</loc>
+        <priority>1.0</priority>
+    </url>
+
+                <url>
+            <loc>http://localhost/MyDirectory/index.php/business/cinema</loc>
+            <priority>0.5</priority>
+        </url>
+                <url>
+            <loc>http://localhost/MyDirectory/index.php/business/adsonance</loc>
+            <priority>0.5</priority>
+        </url>
+                <url>
+            <loc>http://localhost/MyDirectory/index.php/business/privacy-policy</loc>
+            <priority>0.5</priority>
+        </url>
+            
+
+                <url>
+            <loc>http://localhost/MyDirectory/index.php/home/category/1</loc>
+            <priority>0.5</priority>
+        </url>
+            
+
+                <url>
+            <loc>http://localhost/MyDirectory/index.php/website/khan_xsdsfsdc</loc>
+            <priority>0.5</priority>
+        </url>
+                <url>
+            <loc>http://localhost/MyDirectory/index.php/website/seanauto</loc>
+            <priority>0.5</priority>
+        </url>
+            
+
+                <url>
+            <loc>http://localhost/MyDirectory/index.php/website/khan_xsdsfsdc/7</loc>
+            <priority>0.5</priority>
+        </url>
+                <url>
+            <loc>http://localhost/MyDirectory/index.php/website/khan_xsdsfsdc/8</loc>
+            <priority>0.5</priority>
+        </url>
+                <url>
+            <loc>http://localhost/MyDirectory/index.php/website/khan_xsdsfsdc/9</loc>
+            <priority>0.5</priority>
+        </url>
+                <url>
+            <loc>http://localhost/MyDirectory/index.php/website/seanauto/10</loc>
+            <priority>0.5</priority>
+        </url>
+            
+
+
+</urlset>
+
+
